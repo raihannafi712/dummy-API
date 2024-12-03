@@ -1,0 +1,17 @@
+/* common css start */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  img{
+    vertical-align: middle;
+  }
+  a{
+    text-decoration: none !important;
+    display: inline-block;
+  }
+  ul{
+    list-style: none;
+  }
+  /* common css end */
